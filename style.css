@@ -54,8 +54,8 @@
     flex-wrap: wrap;
     align-items: center;
     justify-content: center;
-    background-color:#EBEAED ;
-    border-radius: 20px;
+    background-color:rgba(235, 234, 237, 1) ;
+    border-radius: 10px;
     min-height: 160px;
 }
 section{
